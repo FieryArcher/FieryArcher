@@ -22,7 +22,7 @@
 
 
 <h3 align="center">📫 Contact Me</h3>
- <br/> 
+
 <div align="center"> 
   <a href="mailto:ndarzhanov3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
@@ -34,6 +34,24 @@
      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=swift,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,firebase,java,mysql" /><br>
+    <img src="https://img.shields.io/badge/SwiftUI-FF0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UIKit-00008B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MVVM-FFA500?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MVC-FFD700?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CoreDate-E6E6FA?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Autolayout-C71585?style=for-the-badge" />
+
+    
+</div>
+
+<br/>
+<hr/>
 
 Welcome to my GitHub profile! I'm passionate about iOS development and enjoy sharing my experiences and projects here.
 
@@ -52,6 +70,7 @@ Welcome to my GitHub profile! I'm passionate about iOS development and enjoy sha
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=contribs,prs)
+
 
 
 ## ❤️ Thanks for stopping by!
