@@ -40,14 +40,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python,firebase,java,mysql" /><br>
-    <img src="https://img.shields.io/badge/SwiftUI-FF0000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/UIKit-00008B?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MVVM-FFA500?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MVC-FFD700?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CoreDate-E6E6FA?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Autolayout-C71585?style=for-the-badge" />
 
-    
 </div>
 
 <br/>
@@ -60,18 +53,35 @@ Welcome to my GitHub profile! I'm passionate about iOS development and enjoy sha
 - [Project 1](link_to_project_1): Pomodoro App for being productive.
 - [Project 2](link_to_project_2): Rock, Paper, Scissors game application.
 
-## 📚 My Skills
+</hr>
+<h2 align="center">📚 My Skills</h2>
 
-- **Programming Languages:** Swift, Python, Java.
-- **Frameworks:** SwiftUI, UIKit, Spring Boot.
-- **Databases:** MySQL, Oracle, SQLite, FireBase, MongoDB.
-- **Tools:** Git.
+<div align="center">
+    <img src="https://img.shields.io/badge/SwiftUI-FF0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UIKit-00008B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MVVM-FFA500?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MVC-FFD700?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CoreDate-E6E6FA?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Autolayout-C71585?style=for-the-badge" />
+</div>
 
-## 📊 GitHub Stats
+<hr/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=contribs,prs)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fieryarcher&show_icons=true&locale=en&layout=compact" alt="fieryarcher" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fieryarcher&show_icons=true&locale=en" alt="fieryarcher" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fieryarcher&" alt="fieryarcher" /></p>
+
+</div>
+
+<br/><br/>
+
+<hr/>
 
 ## ❤️ Thanks for stopping by!
 
