@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about iOS development and enjoy sha
 
 ## 📫 Contact Me
 
-- [LinkedIn]([link_to_LinkedIn](https://www.linkedin.com/in/darzhanov-nurlan-369a35210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- [LinkedIn](https://www.linkedin.com/in/darzhanov-nurlan-369a35210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Telegram](https://t.me/wiseminder)
 - [Email](ndarzhanov3@gmail.com)
 
