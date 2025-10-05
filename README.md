@@ -50,8 +50,9 @@ Welcome to my GitHub profile! I'm passionate about iOS development and enjoy sha
 
 ## 🚀 My Projects
 
-- [Project 1](link_to_project_1): Pomodoro App for being productive.
-- [Project 2](link_to_project_2): Rock, Paper, Scissors game application.
+- [Project 1](link_to_project_1): Pomodoro App for being productive.  
+- [Project 2](link_to_project_2): Rock, Paper, Scissors game application.  
+- [ToDoListApp](https://github.com/FieryArcher/ToDoListApp): A clean and minimal task manager built with Swift and MVVM architecture.
 
 </hr>
 <h2 align="center">📚 My Skills</h2>
